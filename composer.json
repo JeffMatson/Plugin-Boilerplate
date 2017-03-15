@@ -1,0 +1,10 @@
+{
+    "name": "jeffmatson/plugin-boilerplate",
+    "authors": [
+        {
+            "name": "Jeff Matson",
+            "email": "jeff@jeffmatson.net"
+        }
+    ],
+    "require": {}
+}
